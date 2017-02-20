@@ -9,7 +9,7 @@ Aplicativo Móvel para Ensino de Divisibilidade.
 - Framework Cocos2d
 	
 ## IDE
-- NetBeans
+- Eclipse
 
 ## Artigo completo
 - Numbers Crush - Aplicativo Móvel para Ensino de Divisibilidade.pdf
